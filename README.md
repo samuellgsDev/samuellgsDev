@@ -42,6 +42,5 @@
   
    ![Snake animation](https://github.com/samuellgsDev/samuellgsDev/blob/output/github-contribution-grid-snake.svg)
  
- 
 </div>
   
