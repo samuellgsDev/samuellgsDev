@@ -2,8 +2,8 @@
 #### Bem vindo ao meu github
 ## 👉 Sobre mim:                                                                                                                                                      
 *• Sou estudante de ciências e tecnologia com ênfase em engenharia da computação na Universidade Federal do Maranhão (UFMA)*                                          
-*• Programador back-end                                                                                                                                                                          
-*• Tenho interesse na área de inteligência artificial, machine learning, automação, e-commerce, games, chatbot, web e afins                                                              
+*• Programador back-end*                                                                                                                                                                          
+*• Tenho interesse na área de inteligência artificial, machine learning, automação, e-commerce, games, chatbot, web e afins*                                                              
 *• Tenho interesse em inovação, empreendedorismo e pretendo ter meu próprio negócio*                                                                                                                   
 ## 👉 Algumas curiosidades sobre mim:                                                                                                                                       
 *• Gosto de jogos de tiro (fps), MMORPG e RPG de mundo aberto*                                                                                                      
