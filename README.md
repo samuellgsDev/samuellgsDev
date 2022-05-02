@@ -13,7 +13,9 @@
 ## 📚 Extracurriculares:
 
 *• Projeto de extensão - Scitech application - Divisão de IOT/robótica* 
+
 _Principais atividades:_
+
 *Desenvolver um dispositivo de acessibilidade para cegos nos transportes públicos*
 
 *04/2022 - atualmente*
@@ -22,7 +24,9 @@ _Principais atividades:_
 *03/2021 - atualmente*
 
 *• Projeto de extensão - Lógica de programação na educação básica brasileira como suporte ao ensino/aprendizagem no ensino médio*  
+
 _Principais atividades:_
+
 *Ministrar aulas de lógica de programação para estudantes de escola pública, utilizando python e a biblioteca pygame*
 
 *07/2021 - 12/2021*                                                                                                                                      
