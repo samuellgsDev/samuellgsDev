@@ -10,13 +10,22 @@
 *• Antes de querer ser engenheiro da computação/programador, eu queria cursar medicina*                                                                                      
 *• A primeira linguagem de programação que aprendi foi python e até hoje é a minha favorita*                                                                                                                                                                      
 *• Pretendo morar fora do país futuramente*                                                                                                                                
-## 📚 Extracurriculares:                                                                                                                                                  
-*• Projeto de extensão - Lógica de programação na educação básica brasileira como suporte ao ensino/aprendizagem no ensino médio*                                              
-*07/2021 - 12/2021*                                                                                                                                                                           
-*• Projeto de extensão - Scitech application - Divisão de inteligência artificial*                                                                                                
+## 📚 Extracurriculares:
+
+*• Projeto de extensão - Scitech application - Divisão de IOT/robótica* 
+_Principais atividades:_
+*Desenvolver um dispositivo de acessibilidade para cegos nos transportes públicos*
+
+*04/2022 - atualmente*
+
+*• Projeto de extensão - Scitech application - Divisão de inteligência artificial*                                                                                             
 *03/2021 - atualmente*
 
+*• Projeto de extensão - Lógica de programação na educação básica brasileira como suporte ao ensino/aprendizagem no ensino médio*  
+_Principais atividades:_
+*Ministrar aulas de lógica de programação para estudantes de escola pública, utilizando python e a biblioteca pygame*
 
+*07/2021 - 12/2021*                                                                                                                                      
 
 
 <div align="center">
