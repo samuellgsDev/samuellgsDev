@@ -1,13 +1,13 @@
 ### Olá! sou Samuel Gadêlha
 #### Bem vindo ao meu github
 ## 👉 Sobre mim:                                                                                                                                                      
-*• Sou estudante de ciências e tecnologia com ênfase em engenharia da computação na Universidade Federal do Maranhão (UFMA)*                                          
+*• Sou estudante de Engenharia de software*                                          
 *• Programador back-end*                                                                                                                                                                          
 *• Tenho interesse na área de inteligência artificial, machine learning, automação, e-commerce, games, chatbot, web e afins*                                                              
 *• Tenho interesse em inovação, empreendedorismo e pretendo ter meu próprio negócio*                                                                                                                   
 ## 👉 Algumas curiosidades sobre mim:                                                                                                                                       
 *• Gosto de jogos de tiro (fps), MMORPG e RPG de mundo aberto*                                                                                                      
-*• Antes de querer ser engenheiro da computação/programador, eu queria cursar medicina*                                                                                      
+*• Antes de querer ser engenheiro de software/programador, eu queria cursar medicina*                                                                                      
 *• A primeira linguagem de programação que aprendi foi python e até hoje é a minha favorita*                                                                                                                                                                      
 *• Pretendo morar fora do país futuramente*                                                                                                                                
 ## 📚 Extracurriculares:
@@ -18,10 +18,10 @@ _Principais atividades:_
 
 *Desenvolver um dispositivo de acessibilidade para cegos nos transportes públicos*
 
-*04/2022 - atualmente*
+*04/2022 - 06/2023*
 
 *• Projeto de extensão - Scitech application - Divisão de inteligência artificial*                                                                                             
-*03/2021 - atualmente*
+*03/2021 - 06/2023*
 
 *• Projeto de extensão - Lógica de programação na educação básica brasileira como suporte ao ensino/aprendizagem no ensino médio*  
 
