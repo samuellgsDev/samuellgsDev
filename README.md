@@ -43,7 +43,8 @@ _Principais atividades:_
   <img align="center" alt="Samu-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Samu-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Samu-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Samu-Js" height="40" width="55" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="Samu-Js" height="40" width="55" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  
  </div>
   
   ##
