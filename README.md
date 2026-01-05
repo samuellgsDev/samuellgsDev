@@ -2,13 +2,13 @@
 #### Bem vindo ao meu github
 ## 👉 Sobre mim:                                                                                                                                                      
 *• Sou estudante de Engenharia de software*                                          
-*• Programador back-end*                                                                                                                                                                          
-*• Tenho interesse na área de inteligência artificial, machine learning, automação, e-commerce, games, chatbot e web.*                                                              
+*• Programador Back-end, mas as vezes fullstack*                                                                                                                                                                          
+*• Sou entusiasta área de inteligência artificial, machine learning, automação, computação quântica, chatbot e web.*
 *• Gosto de inovação e empreendedorismo.*                                                                                                              
 ## 👉 Algumas curiosidades sobre mim:                                                                                                                                       
 *• Gosto de jogos de tiro (fps), MMORPG e RPG de mundo aberto*                                                                                                      
 *• Antes de querer ser engenheiro de software/programador, eu queria cursar medicina*                                                                                      
-*• A primeira linguagem de programação que aprendi foi python e até hoje é a minha favorita*                                                                                                                                                                      
+*• A primeira linguagem de programação que aprendi foi python*                                                                                                                                                                      
 *• Pretendo morar fora do país futuramente*                                                                                                                                
 ## 📚 Extracurriculares:
 
